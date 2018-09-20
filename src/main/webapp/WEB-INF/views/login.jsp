@@ -42,10 +42,10 @@
         <div class="px1000 ak234">
             <ul class="cp_nav_bar clearfix">
                 <li><a href="/api/zdap/index" class="header_acivity">首页</a></li>
-                <li><a href="#pxkc">培训课程</a></li>
-                <li><a href="#zcfg">政策法规</a></li>
-                <li><a href="#xwzx">新闻中心</a></li>
-                <li><a href="/api/zdap/login">在线培训</a></li>
+                <li><a href="/api/zdap/index#pxkc">培训课程</a></li>
+                <li><a href="/api/zdap/index#zcfg">政策法规</a></li>
+                <li><a href="/api/zdap/index#xwzx">新闻中心</a></li>
+                <li><a href="#">在线培训</a></li>
             </ul>
         </div>
     </div>
