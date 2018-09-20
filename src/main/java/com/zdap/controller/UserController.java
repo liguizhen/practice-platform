@@ -14,18 +14,8 @@ import java.util.List;
  * Created by liguizhen on 2018/9/4
  */
 @Controller
-@RequestMapping("/api/user/")
+@RequestMapping("/api/zdap/user/")
 public class UserController {
 
-    @Autowired
-    private UserService userService;
 
-    @RequestMapping("list")
-    @ResponseBody
-    public ModelAndView list(){
-        ModelAndView mv = new ModelAndView("/index");
-        /*List<User> userList = userService.findAll();
-        mv.addObject("list", userList);*/
-        return mv;
-    }
 }
