@@ -27,7 +27,7 @@
 					<span class="mgl_15 mtbnm">
 						<img src="/static/images/zhuce.png" width="20" height="20">
 					</span>
-					<span class="kfdxd hs_phone_num"><a href="login.html">注册</a> / <a href="reg.html">登录</a></span>
+					<span class="kfdxd hs_phone_num"><a href="login.jsp">注册</a> / <a href="reg.jsp">登录</a></span>
 					<span class="kfdxd hs_phone_num">我的班级</span>
 				</span>
         </div>
@@ -36,11 +36,11 @@
     <div class="cp_df_bzd_hnm">
         <div class="px1000 ak234">
             <ul class="cp_nav_bar clearfix">
-                <li><a href="index.html" class="header_acivity">首页</a></li>
+                <li><a href="index.jsp" class="header_acivity">首页</a></li>
                 <li><a href="#pxkc">培训课程</a></li>
                 <li><a href="#zcfg">政策法规</a></li>
                 <li><a href="#xwzx">新闻中心</a></li>
-                <li><a href="login.html">在线培训</a></li>
+                <li><a href="login.jsp">在线培训</a></li>
             </ul>
         </div>
     </div>

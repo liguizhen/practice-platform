@@ -38,10 +38,10 @@
     <div class="cp_df_bzd_hnm">
         <div class="px1000">
             <ul class="cp_nav_bar">
-                <li><a href="index.html" class="header_acivity">首页</a></li>
-                <li><a href="index.html#pxkc">培训课程</a></li>
-                <li><a href="index.html#zcfg">政策法规</a></li>
-                <li><a href="index.html#xwzx">新闻中心</a></li>
+                <li><a href="index.jsp" class="header_acivity">首页</a></li>
+                <li><a href="index.jsp#pxkc">培训课程</a></li>
+                <li><a href="index.jsp#zcfg">政策法规</a></li>
+                <li><a href="index.jsp#xwzx">新闻中心</a></li>
                 <li><a href="#">在线培训</a></li>
             </ul>
         </div>
@@ -60,9 +60,9 @@
                     <p style="font-size: 16px;" class="businame">
                         <span class="businessName" title="业务一、了解出纳岗位内容">业务一、了解出纳岗位内容</span>
                         <span class="bus_study"> &nbsp;&nbsp;
-													<a href="kqrz.html">课前认知</a>&nbsp;&nbsp;
-													<a href="kzsx.html">课中实训</a>&nbsp;&nbsp;
-													<a href="khsj.html">课后实践</a>&nbsp;&nbsp;
+													<a href="kqrz.jsp">课前认知</a>&nbsp;&nbsp;
+													<a href="kzsx.jsp">课中实训</a>&nbsp;&nbsp;
+													<a href="khsj.jsp">课后实践</a>&nbsp;&nbsp;
 											</span>
                     </p>
                     <p style="font-size: 16px;" class="businame">
