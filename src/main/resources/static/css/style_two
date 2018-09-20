@@ -1,0 +1,31 @@
+
+.icon span {
+	display: inline-block;
+	width: 20px;
+	font-size: 14px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+}
+
+.icon b {
+	display: inline-block;
+	width: 65px;
+	font-size: 14px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+}
+
+.hours .icon {
+	display: inline-block;
+	float: right;
+	width: 50px;
+	height: 32px;
+}
+
+.hours .spase {
+	display: inline-block;
+	width: 336px;
+	height: 32px;
+}

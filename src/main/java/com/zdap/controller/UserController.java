@@ -23,9 +23,9 @@ public class UserController {
     @RequestMapping("list")
     @ResponseBody
     public ModelAndView list(){
-        ModelAndView mv = new ModelAndView("user/list");
-        List<User> userList = userService.findAll();
-        mv.addObject("list", userList);
+        ModelAndView mv = new ModelAndView("/index");
+        /*List<User> userList = userService.findAll();
+        mv.addObject("list", userList);*/
         return mv;
     }
 }

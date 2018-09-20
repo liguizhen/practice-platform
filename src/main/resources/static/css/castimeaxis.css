@@ -1,0 +1,257 @@
+.businame a{
+ width:40px;
+ height:25px;
+ line-height:25px;
+ display:inline-block;
+ border-top-left-radius:2px;
+ border-top-right-radius:2px; 
+ border-bottom-left-radius:2px;
+ border-bottom-right-radius:2px;   
+ background-color:#e04821; 
+ text-align:center;
+ font-size:14px;
+ color:#fff; 
+ float:right;
+ margin-left:10px;  
+}
+
+.businame a:hover{
+ background-color:#f98769;	
+ cursor:pointer; 
+}
+
+.businame span{
+ width:330px; 
+ display: inline-block; 
+ float: right;
+}
+
+.content .main .year .list .chapsec{
+     color:#666;
+    float:left;
+	display:block;
+	clear:left;
+	width:300px;
+	line-height:24px;
+	text-align:right; 
+	font-size:18px;
+	line-height:32px;
+	font-weight: normal;
+} 
+
+.content .main .year .list .more .businame{
+ color:#666; 
+ height:30px;
+ width:600px; 
+ line-height:30px; 
+ font-weight:normal;  
+}
+
+.businessName{
+ width:250px!important;
+ float:left!important;
+ overflow:hidden;
+ text-overflow:ellipsis;
+ white-space:nowrap;
+ word-break:keep-all; 
+}
+
+.businessName:hover,.stubusinessName:hover{
+ cursor:default!important; 
+}
+
+.stubusinessName{
+ width:375px!important;
+ float:left!important;
+ overflow:hidden;
+ text-overflow:ellipsis;
+ white-space:nowrap;
+ word-break:keep-all;
+}
+
+.stuspan{
+ width:200px!important; 
+}
+
+.content .main .year .list .hours{
+    float: left;
+	display: block;
+	width:613px;
+	margin-left: 100px;
+	line-height: 24px;
+	font-size: 18px;
+	line-height: 32px;
+	color: #e04821;
+	font-weight:bold; 
+}
+
+.icon a{
+ display:inline-block;
+ width:48px;
+ height:32px;
+ vertical-align:top; 
+}
+
+
+.closed{
+ background:url("../images/images/fin/fin_close_bg.png") no-repeat;  
+}
+
+.closed:hover{
+background:url("../images/images/fin/fin_close_hover.png") no-repeat; 
+}
+
+.open{
+ background:url("../images/images/cas/cas_open_bg.png") no-repeat; 
+}
+
+.open:hover{
+ background:url("../images/images/cas/cas_open_hover.png") no-repeat; 
+}
+
+
+.content .main .year .list .subject{
+     color:#666;
+    float:left;
+	display:block;
+	clear:left;
+	width:300px;
+	line-height:24px;
+	text-align:right; 
+	font-size:18px;
+	line-height:32px;
+} 
+
+.content .main .year .list .more .course{
+ color:#666; 
+ height:30px;
+ width:790px;  
+}
+
+.coursename{
+    float: left;
+	display:block;
+	width:400px;
+	margin-left:0px;
+	line-height: 20px;
+	font-size:14px;
+	line-height: 32px;
+	color:#666;
+	overflow:hidden;
+	word-break:keep-all;
+	white-space: nowrap;
+	text-overflow:ellipsis; 
+}
+
+.content .main .year .list ul li .version{
+    float:left;
+	display:block;
+	clear:left;
+	width:250px;
+	line-height:24px;
+	text-align:right;
+	font-size:14px;
+	color:red;  
+}
+
+.operation{
+  color:#666; 
+ height:30px;
+ width:360px; 
+}
+
+
+.score{
+ width:50px;
+ height:30px;
+ line-height:30px;
+ text-align:center;
+ display:inline-block;
+ float:right;      
+}
+
+.operation a{
+  width:100px;
+ height:30px;
+ line-height:30px;
+ display:inline-block;
+ border-top-left-radius:2px;
+ border-top-right-radius:2px; 
+ border-bottom-left-radius:2px;
+ border-bottom-right-radius:2px;   
+ background-color:#e04821; 
+ text-align:center;
+ font-size:14px;
+ color:#fff;
+ float:left;
+ margin-left:10px;  
+}
+
+.operation a:hover{
+ background-color:#f98769;	
+}
+
+.content .main .year .list ul li.highlight {
+	background-image: url(../images/images/cas/circle.png);
+}
+
+.content .main .year .list ul li {
+	background: url("../images/images/cas/circle.png") no-repeat 335px 31px;
+	padding: 30px 0;
+	color: #a1a4b8;
+}
+
+.content .main .year h2 i{
+	display:block;
+	position:relative;
+	height:0;
+	width:0;
+	left:310px;
+	top:-20px;
+	border-width:6px;
+	border-style:solid;
+	border-color:#373A45 transparent transparent transparent;
+	-webkit-transition:.5s;
+	-moz-transition:.5s;
+	-ms-transition:.5s;
+	-o-transition:.5s;
+	transition:.5s;
+	-webkit-transform-origin:6px 3px;
+	-moz-transform-origin:6px 3px;
+	-ms-transform-origin:6px 3px;
+	-o-transform-origin:6px 3px;
+	transform-origin:6px 3px
+}
+
+.content .main .year h2 a {
+	color: #333;
+}
+
+.content .main {
+	background: url("../images/images/cas/sekuai.jpg") repeat-y 350px 0px;
+}
+.content .main .title {
+	position: absolute;
+	line-height: 41px;
+	padding-left: 67px;
+	left:330px;
+	top: 0;
+	color: #333;
+	font-size: 24px;
+	background: url("../images/images/cas/clock.png") no-repeat left top;
+}
+
+.content .light {
+	position: absolute;
+	top: -50px;
+	width: 152px;
+	height: 191px;
+	background: url("../images/images/log/light-top.png") no-repeat top center;
+}
+.content .light i {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	background: url("../images/images/cas/light.png") no-repeat top center;
+}

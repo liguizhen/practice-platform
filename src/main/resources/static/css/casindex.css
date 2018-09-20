@@ -1,0 +1,104 @@
+.tn-suboption .subname{
+ display:inline-block;
+ height:30px;
+ padding-left:20px;
+ padding-right:20px;
+ background-color:#f98769;
+ font-size:14px;
+ color:#fff;
+ text-align:center;
+ border-top-left-radius:2px;
+ border-top-right-radius:2px;
+ border-bottom-left-radius:2px;
+ border-bottom-right-radius:2px;
+ line-height:30px;
+ width:125px;  
+}
+
+
+.tn-suboption .subnames{
+ background-color:#e04821; 
+ display:inline-block;
+ height:30px;
+ padding-left:20px;
+ padding-right:20px;
+ font-size:14px;
+ color:#fff;
+ text-align:center;
+ border-top-left-radius:2px;
+ border-top-right-radius:2px;
+ border-bottom-left-radius:2px;
+ border-bottom-right-radius:2px;
+ line-height:30px; 
+ width:125px;
+}
+
+.tn-suboption{
+ padding-top:8px; 
+}
+
+.subname:hover{
+ background-color:#e04821; 
+}
+
+.main-nav .tn-option a {
+	padding: 0 20px;
+	float: left;
+	line-height: 30px;
+	font-size: 14px;
+	margin: 0px 0px 0 5px;
+	position: relative;
+}
+
+.main-nav .tn-option a:hover {
+	background: #e04821;
+	color: #FFF;
+	border-radius: 2px;
+}
+
+.main-nav .tn-option .ui-check {
+	background-color: #e04821;
+	color: #FFF;
+	border-radius: 2px;
+}
+
+.subdiv{
+ display:inline-block;
+ position:relative;  
+
+}
+
+.subdiv .subicon{
+ display:inline-block;
+ position:absolute;
+ top:30px;
+ width:21px;
+ height:7px;
+ background-color:#000;
+ left:70px; 
+ background:url(../images/images/cas/sanjiao.png) no-repeat;       
+}
+
+
+
+.main-nav {
+	width: 100%;
+	min-width: 1000px;
+	font-family: "Microsoft YaHei", "SimSun", "\5b8b\4f53";
+	background: #fafafa;
+	overflow: visible;
+	position: relative;
+	z-index: 5; /*margin-top:-20px;*/
+	-webkit-box-shadow: rgba(0, 0, 0, 0.05) 3px 3px 4px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.05) 3px 3px 4px;
+	box-shadow: rgba(0, 0, 0, 0.05) 3px 3px 4px;
+	border-bottom: 3px solid #e04821;
+}
+
+.main-nav .tn-service {
+	padding-bottom: 5px;
+	position: relative;
+	line-height: 25px;
+	height: 25px;
+	border-bottom: 1px solid #e04821;
+}

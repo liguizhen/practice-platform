@@ -1,0 +1,50 @@
+#paging {
+	float: right;
+}
+
+#paging ul li {
+	float: left;
+	list-style-type:none
+}
+
+#paging ul li a {
+	outline: none;
+	blr: expression(this . onFocus = this . blur() );
+	text-decoration: none;
+	display: inline-block;
+	border: 1px solid #d5d5d5;
+	margin-right: 5px;
+	padding: 2px 5px 1px;
+	text-align: center;
+	color: #1a66b3;
+	font-size: 11px;
+}
+
+#paging ul li a.current {
+	border: 0px none #d5d5d5;
+	color: black;
+	font-weight: bold;
+}
+
+#paging ul li span{
+	color: #f00;
+	font-size: 18px;
+}
+
+#paging ul li a.last,#paging ul li a.first {
+	text-decoration: none;
+	display: inline-block;
+	border: 1px solid #d5d5d5;
+	margin-right: 5px;
+	padding: 3px 5px 1px;
+	text-align: center;
+	color: #1a66b3;
+	font-size: 11px;
+}
+
+#paging .total {
+	border: 0px none #d5d5d5;
+	padding: 3px 5px 1px;
+	text-align: center;
+	font-size: 12px;
+}
