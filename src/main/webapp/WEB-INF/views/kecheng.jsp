@@ -36,11 +36,11 @@
     <div class="cp_df_bzd_hnm">
         <div class="px1000">
             <ul class="cp_nav_bar">
-                <li><a href="index.jsp" class="header_acivity">首页</a></li>
-                <li><a href="index.jsp#pxkc">培训课程</a></li>
-                <li><a href="index.jsp#zcfg">政策法规</a></li>
-                <li><a href="index.jsp#xwzx">新闻中心</a></li>
-                <li><a href="kecheng.jsp">我的班级</a></li>
+                <li><a href="/api/zdap/index" class="header_acivity">首页</a></li>
+                <li><a href="#pxkc">培训课程</a></li>
+                <li><a href="#zcfg">政策法规</a></li>
+                <li><a href="#xwzx">新闻中心</a></li>
+                <li><a href="/api/zdap/kecheng">我的班级</a></li>
             </ul>
         </div>
     </div>
@@ -57,7 +57,7 @@
                 <ul>
                     <li class="clearfix">
                         <span class="cp_news_center_num fl">1</span>
-                        <span class="ellipsis2 fl maxwid160 mgl_lc10px"><a href="kecheng1.jsp">会计学</a></span>
+                        <span class="ellipsis2 fl maxwid160 mgl_lc10px"><a href="/api/zdap/kecheng1">会计学</a></span>
                     </li>
                     <li class="clearfix">
                         <span class="cp_news_center_num fl">2</span>
